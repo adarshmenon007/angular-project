@@ -1,6 +1,6 @@
 # AngularProject
 
-This is a simple app i've created while learn angular. Please refer https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/ for details regarding the free course.
+This is a simple app i've created for learning angular. Please refer https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/ for details regarding the free course.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
